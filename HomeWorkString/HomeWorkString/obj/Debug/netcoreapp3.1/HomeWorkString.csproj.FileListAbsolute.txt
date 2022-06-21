@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\bin\Debug\netcoreapp3.1\HomeWorkString.exe
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\bin\Debug\netcoreapp3.1\HomeWorkString.deps.json
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\bin\Debug\netcoreapp3.1\HomeWorkString.runtimeconfig.json
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\bin\Debug\netcoreapp3.1\HomeWorkString.runtimeconfig.dev.json
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\bin\Debug\netcoreapp3.1\HomeWorkString.dll
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\bin\Debug\netcoreapp3.1\HomeWorkString.pdb
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\obj\Debug\netcoreapp3.1\HomeWorkString.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\obj\Debug\netcoreapp3.1\HomeWorkString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\obj\Debug\netcoreapp3.1\HomeWorkString.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\obj\Debug\netcoreapp3.1\HomeWorkString.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\obj\Debug\netcoreapp3.1\HomeWorkString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\obj\Debug\netcoreapp3.1\HomeWorkString.dll
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\obj\Debug\netcoreapp3.1\HomeWorkString.pdb
+C:\Users\User\Desktop\HomeWorkString\HomeWorkString\HomeWorkString\obj\Debug\netcoreapp3.1\HomeWorkString.genruntimeconfig.cache
